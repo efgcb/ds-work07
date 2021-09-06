@@ -1,0 +1,25 @@
+.catalog-container {
+  display: flex;
+  flex-direction: column;   
+  background-color: #fff;
+  padding: 20px 10px;
+}
+
+.btn-primary {
+  background-color: #00285f;
+  width: 257px;
+  height: 40px;
+}
+.btn-primary p {
+  color: #fff;
+  display: flex;
+  font-weight: bold;
+  font-size: 14px;
+  justify-content: center;
+  align-items: center;
+}
+.my-4{
+  display: flex;
+  justify-content: space-between;
+}
+

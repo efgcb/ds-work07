@@ -1,23 +1,29 @@
 .main-nav {
-  min-height: 70px;
-  padding-left: 88px;
+  min-height: 70px; 
 }
 
-.nav-logo-text,
+.nav-logo-text{
+  padding-left: 20px;   
+}
+
+.nav-logo-text h4{
+  font-size: 24px;  
+}
+
 .nav-logo-text:hover {
   color: #00285f;
 }
 
 .navbar-toggler {    
-  border: 0px;
-  
+  border: 0px;  
 }
 
 .main-menu {
   display: flex;
-  font-size: 18px;
+  font-size: 20px;
   width: 180px;
   justify-content: space-between;
+  padding-left: 20px; 
 }
 
 .main-menu a {

@@ -13,3 +13,8 @@ a, a:hover {
   text-decoration: none;
   color: unset;
 }
+
+.base-card {  
+  color: #fff;  
+  border-radius: 10px;
+}

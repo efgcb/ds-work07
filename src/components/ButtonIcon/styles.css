@@ -1,0 +1,37 @@
+.btn-container {
+  display: flex; 
+  background-color: #ededed;
+  border-radius: 10px;
+  padding: 22px 14px;
+}
+
+.btn-search {
+  display: flex;
+  width: 100%;
+  background-color: #ffffff;
+  height: 40px;
+}
+
+.btn p {
+  color: #a7a7a7;
+  font: 14px;
+  text-align: left;
+}
+
+.btn-icon-container { 
+  width: 100px;
+  height: 40px;
+  background-color: #00285f;
+  color: #ffffff;
+  border-radius: 0px 5px 5px 0px;   
+}
+.btn-icon-container p {
+  display: flex;
+  font-size: 12px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  
+}
+
+
